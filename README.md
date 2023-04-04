@@ -1,7 +1,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Nami Personal Site</title>
     </head>
     <body>
         <table cellspacing="20">
@@ -11,7 +10,7 @@
                     <p><em>The Pirates</em></p>
                     <p>$66.000.000 Price Head 💛 of The <a href="https://www.youtube.com/shorts/rUrkYqd-UPM">Mugiwara team</p></a></td>
             </tr>
-        </table>
+        </table cellspacing="20">
     </body>
         <hr>
         <h3>Pirates and Navigator</h3>
@@ -32,7 +31,7 @@
                 <td>2004-20022</td>
             </tr>
             </thead aria-setsize="2">
-        </table aria-setsize="2">
+        </table cellspacing="10">
         <br>
         <hr>
         <h3>Skills</h3>
@@ -49,7 +48,7 @@
                 <td>Emotional iq</td>
                 <td>🍑🍑🍑🍑🍑</td>
             </tr>
-        </table>
+        </table cellspacing="10">
         <br>
         <hr>
         <h3>Contact Me!</h3>
