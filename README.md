@@ -5,7 +5,7 @@
     <body>
         <table cellspacing="20">
             <tr>
-                <td><img src="file:///C:/Users/user/web/images/nami.jpg" alt="nami bounty"></td>
+                <td><img src="https://upload.wikimedia.org/wikipedia/id/f/f5/Nami_faace.jpg" alt="nami bounty"></td>
                 <td><h1>its Nami</h1>
                     <p><em>The Pirates</em></p>
                     <p>$66.000.000 Price Head 💛 of The <a href="https://www.youtube.com/shorts/rUrkYqd-UPM">Mugiwara team</p></a></td>
